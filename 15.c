@@ -12,7 +12,7 @@ main()
     srand(time(NULL));
     int x = rand()%101;
     int tentativas = 1;
-    printf("Jogo do casal 28\n");
+    printf("Jogo\n");
     printf("Adivinhe o numero que estou pensando!\n");
     printf("Uma dica e um numero entre 0 e 100\n");
 
