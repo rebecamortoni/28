@@ -1,7 +1,7 @@
-#28 <3
+
 
 import random
-print("Jogo do casal 28")
+print("Jogo")
 print("Adivinhe o numero que estou pensando!")
 print("Uma dica e um numero entre 0 e 100")
 
